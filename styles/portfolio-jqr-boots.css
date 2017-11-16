@@ -1,0 +1,169 @@
+
+
+header {
+	background-color: #B1172F;
+	overflow: auto;
+	position: fixed;
+	z-index: 1;
+}
+main{
+	background-color: #8B7777;	
+	overflow: auto;
+}
+section {
+	border-bottom: 2px solid ;
+	border-color: grey;
+}
+footer{
+	background-color: #B1172F;
+	overflow: auto;
+}
+
+.am-text{
+	margin-left: 25px;
+	margin-right: 10px;
+	font-size: 13px;
+}
+.am-p{
+	margin-right: 40px;
+	margin-left: 35px;
+}
+
+.am-outer-container {
+	padding: 0;
+}
+
+.am-main-container {
+	background-color: #E5D7D9;
+	margin-top: 70px;
+}
+
+.am-card{
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 40px;
+	margin-bottom: 20px;
+	width: 1100px;
+}
+.card-width{
+	width: 1100px;
+}
+.collapsed{
+	color: red;
+}
+.am-contact{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.am-card-2{
+	margin-bottom: 20px;
+}
+
+.am-icone{
+	font-size: 30px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.clearfix{
+	margin-top: 30px;
+	width: 100%;
+}
+.clearfix1{
+	margin-top: 70px;
+	width: 100%;
+}
+
+.image{
+	margin: 90px auto;
+}
+
+.fa {
+  color : #E5D7D9;
+}
+
+#idsection{
+	background-color:  #CCC0C0;
+}
+.btn{
+	background-color: #B1172F;
+}
+
+
+input[type=text], input[type=tel],input[type=email]  {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	box-sizing: border-box;
+	border: none;
+	border-bottom: 2px solid #8B7777;
+}
+
+h1 {
+	text-align: center;
+	font-family: 'graduate-regular';
+}
+hr {
+	align-content: center;
+	width: 50%;
+	border-color: black;
+	border-style: solid;
+	border-width: 3px 0 0 0;
+}
+hr + p{
+	font-size: 30px;
+}
+p {
+	text-align: center ;
+
+}
+
+footer p {
+	color: black;
+}
+
+
+.navdesign_div{
+	background-color: #B1172F;
+	z-index: 1;
+}
+.navdesign_ul{
+	overflow:auto;
+	width: 1700px;
+
+}
+.navdesign_li{
+	margin-left: 140px;
+	margin-right: 140px;
+}
+.navdesign_a{
+	margin: 10px;
+	padding: 5px;
+	font-family: 'graduate-regular';
+	font-weight: bold;
+}
+.navdesign_a:hover{
+	background-color: #E5D7D9;
+}
+
+
+
+.fotos {
+	margin-bottom: 5px;
+	text-align: center;
+	height: 100%;
+} 
+
+
+
+
+@font-face {
+	font-family: 'graduate-regular';
+	src: url('fonts/graduate-fontfacekit/graduate-regular-webfont.eot') format('embedded-opentype');
+	src: url('fonts/graduate-fontfacekit/graduate-regular-webfont.svg') format('svg'),
+	url('fonts/graduate-fontfacekit/graduate-regular-webfont.woff') format('woff'),
+	url('fonts/graduate-fontfacekit/graduate-regular-webfont.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
