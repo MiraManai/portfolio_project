@@ -3,8 +3,9 @@
 Build a portfolio :
 
 <p align="center">
-	<img src="IMG_PORT/capture-portfolio.png" alt="">
+	<img src="IMG_PORT/mycapture.png" alt="">
 </p>
+
 
 ## Project user stories
 
